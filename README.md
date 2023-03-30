@@ -10,7 +10,7 @@
 - Kotlin, Dart
 - HTML, CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268&theme=dark)](https://github.com/anuraghazra/github-readme-stats),the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👊 My Codewars:
 
@@ -18,5 +18,5 @@
 
 ## 🔭 I’m currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus&theme=dark)](https://github.com/Velp6268/AppHealthStatus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus&theme=dark),the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub,](https://github.com/Velp6268/AppHealthStatus)
 
