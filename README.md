@@ -10,11 +10,11 @@
 - Kotlin, Dart
 - HTML, CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👊 My Codewars:
 
-[![codewars](https://www.codewars.com/users/Velp/badges/large&theme=dark)](https://www.codewars.com/users/Velp)
+[![codewars](https://www.codewars.com/users/Velp/badges/large)](https://www.codewars.com/users/Velp)
 
 ## 🔭 I’m currently working on:
 
