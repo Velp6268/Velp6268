@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Maksim 👋
 
-<!--
-**Velp6268/Velp6268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 About me:
 
-Here are some ideas to get you started:
+///Most of all I like to make indie games on Unity. I also enjoy developing websites, designing mobile applications and writing bots in Python. In general, I am interested in everything related to programming, especially if I can show creativity there.///
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Skills:
+
+- C++, C#
+- Kotlin, Dart
+- HTML, CSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👊 My Codewars:
+
+[![codewars](https://www.codewars.com/users/Velp/badges/large)](https://www.codewars.com/users/Velp)
+
+## 🔭 I’m currently working on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus)](https://github.com/Velp6268/AppHealthStatus)
+
