@@ -14,7 +14,7 @@
 
 ## 👊 My Codewars:
 
-[![codewars](https://www.codewars.com/users/Velp/badges/large)](https://www.codewars.com/users/Velp)
+[![codewars](https://www.codewars.com/users/Velp/badges/large&theme=dark)](https://www.codewars.com/users/Velp)
 
 ## 🔭 I’m currently working on:
 
