@@ -10,7 +10,7 @@
 - Kotlin, Dart
 - HTML, CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velp6268&theme=dark)](https://github.com/anuraghazra/github-readme-stats),the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub
 
 ## 👊 My Codewars:
 
