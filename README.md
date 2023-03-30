@@ -18,5 +18,5 @@
 
 ## 🔭 I’m currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus&theme=dark),the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub,](https://github.com/Velp6268/AppHealthStatus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus&theme=dark)HH(https://github.com/Velp6268/AppHealthStatus)
 
