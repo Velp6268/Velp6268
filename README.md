@@ -1,8 +1,9 @@
 # Hi there, I'm Maksim 👋
 
-## 📋 About me:
+## 👩‍💻 About me:
 
-///Most of all I like to make indie games on Unity. I also enjoy developing websites, designing mobile applications and writing bots in Python. In general, I am interested in everything related to programming, especially if I can show creativity there.///
+I am a student from Volgograd.
+I like to create mobile applications, develop websites, create games.  I like to learn new things, as well as interested in everything related to programming, where I can show myself and my creativity in this.
 
 ## 💪 Skills:
 
