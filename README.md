@@ -1,6 +1,6 @@
 # Hi there, I'm Maksim 👋
 
-## 👩‍💻 About me:
+## 👨‍💻 About me:
 
 I am a student from Volgograd.
 I like to create mobile applications, develop websites, create games.  I like to learn new things, as well as interested in everything related to programming, where I can show myself and my creativity in this.
