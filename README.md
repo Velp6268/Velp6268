@@ -19,7 +19,7 @@ I like to create mobile applications, develop websites, create games.  I like to
 
 ## 🔭 I’m currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Velp6268&repo=AppHealthStatus&theme=dark)](https://github.com/Velp6268/AppHealthStatus)
+Relaxing after a project
 
 ## 💬 Connect with me:
 
