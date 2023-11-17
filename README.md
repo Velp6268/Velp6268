@@ -19,7 +19,7 @@ I like to create mobile applications, develop websites, create games.  I like to
 
 ## 🔭 I’m currently working on:
 
-Relaxing after a project
+Working on a project
 
 ## 💬 Connect with me:
 
